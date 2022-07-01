@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ps-book-app/static/css/main.a33ac978.css",
+    "main.js": "/ps-book-app/static/js/main.0fc9b941.js",
+    "index.html": "/ps-book-app/index.html",
+    "main.a33ac978.css.map": "/ps-book-app/static/css/main.a33ac978.css.map",
+    "main.0fc9b941.js.map": "/ps-book-app/static/js/main.0fc9b941.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33ac978.css",
+    "static/js/main.0fc9b941.js"
+  ]
+}
